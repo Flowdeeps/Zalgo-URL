@@ -1,0 +1,26 @@
+{
+  "name": "zalgurl",
+  "description": "An attempt at building a Matrixified URL obfuscator",
+  "main": "index.html",
+  "authors": [
+    "Pete Haughie pete@republicofpete.net"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "HTML",
+    "Javascript"
+  ],
+  "homepage": "https://github.com/Flowdeeps/zalgurl",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "cssrefresh": "http://cssrefresh.frebsite.nl/js/cssrefresh.js",
+    "blankslate": "https://github.com/Flowdeeps/blankslate.git"
+  }
+}
