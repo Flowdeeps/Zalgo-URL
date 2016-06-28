@@ -136,8 +136,8 @@ var zalgurl = function(){
   ];
 
   function randomise() {
-    var value = Math.floor( Math.random( 1 ) * 1000 );
-    if ( value < 999 ) {
+    var value = Math.floor( Math.random( 1 ) * 500 );
+    if ( value < 499 ) {
       value = 0;
     } else {
       value = 1;
